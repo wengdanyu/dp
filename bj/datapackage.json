@@ -26,7 +26,7 @@
             "title": "类别"
           },
           {
-            "name": "phone ",
+            "name": "phone",
                "type": "string",
             "format": "default",
             "title": "电话"
