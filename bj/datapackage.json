@@ -27,14 +27,14 @@
           },
           {
             "name": "phone ",
-               "type": "string ",
-            "format": "default ",
+               "type": "string",
+            "format": "default",
             "title": "电话"
           },
           {
-            "name": "address ",
+            "name": "address",
             "type": "string",
-            "format": "default ",
+            "format": "default",
             "title": "地址"
           },
            {
